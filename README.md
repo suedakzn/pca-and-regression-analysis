@@ -105,3 +105,7 @@ If you'd like to contribute or provide feedback, feel free to reach out!
 1. [Kaggle - Gezinomi Dataset](https://www.kaggle.com/datasets/merveoztiryaki/gezinomi/data)
 2. Scikit-learn Documentation: [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
 3. Python Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
+
+---
+- 🌐 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sueda-kazan/)
+- 📊 **Kaggle:** [Your Kaggle Profile](https://www.kaggle.com/suedakazan)

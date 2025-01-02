@@ -70,10 +70,38 @@ To further improve and expand this project, the following steps are planned:
 2. **Experiment with Alternative Models:**
    - Implement and compare other models such as:
      - Random Forest Regressor
-     - Gradient Boosting (e.g., XGBoost, LightGBM)
+     - Gradient Boosting
 
 3. **Feature Engineering:**
    - Explore creating new features from existing ones (e.g., time-based variables like `days_to_checkin`).
 
 4. **Deployment:**
    - Convert the model into a web application or API using **Flask** or **Streamlit** for real-time predictions.
+
+---
+## Key Insights
+The analysis revealed the following key insights:
+
+1. **Importance of Dimensionality Reduction:**
+   - PCA reduced the dataset's complexity while retaining 100% of its variance, making it an effective tool for high-dimensional datasets.
+
+2. **Predictive Accuracy:**
+   - The Linear Regression model achieved perfect predictions on the training data, demonstrating the strength of the PCA-transformed features.
+
+3. **High Variance Explained by Fewer Components:**
+   - The first three components explained 77.6% of the variance, highlighting the dataset's inherent structure.
+
+These insights demonstrate the power of PCA in simplifying data and improving model performance.
+
+---
+## Contribution
+This project was completed as an individual effort to enhance my data science skills. 
+All steps, from data preprocessing to model building and evaluation, were implemented independently.
+
+If you'd like to contribute or provide feedback, feel free to reach out!
+
+---
+## References
+1. [Kaggle - Gezinomi Dataset](https://www.kaggle.com/datasets/merveoztiryaki/gezinomi/data)
+2. Scikit-learn Documentation: [PCA](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+3. Python Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`

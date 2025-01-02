@@ -107,5 +107,5 @@ If you'd like to contribute or provide feedback, feel free to reach out!
 3. Python Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
 ---
-- 🌐 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sueda-kazan/)
-- 📊 **Kaggle:** [Your Kaggle Profile](https://www.kaggle.com/suedakazan)
+- 🌐 **LinkedIn:** [My LinkedIn Profile](https://www.linkedin.com/in/sueda-kazan/)
+- 📊 **Kaggle:** [My Kaggle Profile](https://www.kaggle.com/suedakazan)
